@@ -1,6 +1,7 @@
 # VGG16-Transfer-Learning-TF
 This repository contains the transfer learning over VGG16 architecture implemented in Tensorflow, using tf.slim
 
+### Author: [Ravin Kumar](https://mr-ravin.github.io)
 ### Libraries required:
 - #### Tensorflow version : 1.12
 - #### OpenCV version : 2
