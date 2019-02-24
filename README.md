@@ -44,5 +44,5 @@ python3 inference.py
 ### Download VGG16.ckpt file from Google Drive
 [Download](https://drive.google.com/file/d/1M8YIeVplrx1fuPBblEZQmDCOSgRLUABc/view?usp=sharing)
 
-
+#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
 
